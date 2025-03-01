@@ -12,8 +12,10 @@ Data Description
 
 Dataset:
 Contains employee details such as age, gender, education, job role, department, travel frequency, job satisfaction, and attrition status.
+
 Rows:
 1470 rows.
+
 Columns: 
 44 features including demographic information, job details, and attrition labels.
 
@@ -21,14 +23,19 @@ Key Performance Indicators (KPIs) 📌
 
 Total Employees: 
 Displays the count of all employees.
+
 Attrition: 
 Shows the number of employees who left the company.
+
 Active Employees: 
 Indicates the count of current employees.
+
 Attrition Rate: 
 Percentage of employees who left the organization.
+
 Average Age: 
 Displays the mean age of employees.
+
 Job Satisfaction Ratings: 
 Shows average satisfaction scores based on employee feedback.
 
@@ -36,14 +43,19 @@ Key Visualizations 📊
 
 Total Employees by Gender: 
 A Doughnut chart to illustrate the gender distribution in the workforce.
+
 Education-wise Attrition: 
 Analyzes attrition rates across different education levels.
+
 Attrition by Job Role: 
 Highlights job roles with the highest turnover.
+
 Department-wise Attrition: 
 Compares attrition across different departments.
+
 Attrition by Age Group: 
 Examines which age groups are most affected by attrition.
+
 Attrition by Marital Status: 
 Assesses if marital status influences employee turnover.
 
